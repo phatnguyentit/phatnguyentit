@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phatnguyentit
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning azure, docker and other related stuffs
-- 💞️ I’m looking to collaborate on prject of azure and docker
+- 💞️ I’m looking to collaborate on project of azure
 - 📫 Please reach me via email phatnguyen.tit@gmail.com
 
 <!---
